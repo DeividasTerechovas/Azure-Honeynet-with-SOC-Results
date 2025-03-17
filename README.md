@@ -1,11 +1,11 @@
 # Azure-Honeynet-with-SOC-Results
 
 
+# Attack Maps Before Hardening / Security Controls
 
+<img src="https://i.imgur.com/4RPbGMs.png" width="500">
 
-
-
-
+<img src="https://i.imgur.com/D9c4Od3.jpeg" width="500">
 
 
 
